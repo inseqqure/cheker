@@ -12,7 +12,7 @@ param (
 Clear-Host
 
 # 🔗 1. СЮДА ВСТАВЬ СВОЙ ВЕБХУК ДИСКОРДА:
-$webhookUrl = "ВСТАВЬ_СЮДА_СКОПИРОВАННУЮ_ССЫЛКУ_ВЕБХУКА"
+$webhookUrl = "https://discord.com/api/webhooks/1506025655836348559/M9dAvViJu81zgn8Kd9spwqopueMVQQajSCl9Tej3QHMLZs_fFy_Ly4FvqLHUursWExD_"
 
 # ⛔ 2. ЧЁРНЫЙ СПИСОК (БАН ПО HWID) ДЛЯ ВОРИШЕК:
 $BlacklistHWID = @(
